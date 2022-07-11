@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sergl82/ra-api-redux/static/css/main.1669d8f4.css",
+    "main.js": "/Sergl82/ra-api-redux/static/js/main.b4dff291.js",
+    "static/media/mcru-ajax-loader.gif": "/Sergl82/ra-api-redux/static/media/mcru-ajax-loader.6f9ac78cafe081e51d36.gif",
+    "index.html": "/Sergl82/ra-api-redux/index.html",
+    "main.1669d8f4.css.map": "/Sergl82/ra-api-redux/static/css/main.1669d8f4.css.map",
+    "main.b4dff291.js.map": "/Sergl82/ra-api-redux/static/js/main.b4dff291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1669d8f4.css",
+    "static/js/main.b4dff291.js"
+  ]
+}
